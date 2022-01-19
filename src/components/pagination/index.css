@@ -1,0 +1,27 @@
+.pagination {
+    margin-top: 32px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.filter-items {
+    margin-right: 24px;
+}
+
+.filter-items span {
+    margin-right: 6px;
+}
+
+.filter-pages {
+    display: flex;
+    align-items: center;
+}
+
+.filter-pages button {
+    padding-top: 6px;
+    margin: 0;
+    outline: none;
+    background: transparent;
+    border: none;
+}

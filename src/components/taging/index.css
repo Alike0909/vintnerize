@@ -1,0 +1,6 @@
+.category-tags {
+    flex: 3;
+    height: 86px;
+    display: flex;
+    flex-wrap: wrap;
+}
